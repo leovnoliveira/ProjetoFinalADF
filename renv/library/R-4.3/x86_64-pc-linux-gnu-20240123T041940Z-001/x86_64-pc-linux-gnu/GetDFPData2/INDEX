@@ -1,0 +1,5 @@
+export_xlsx             Export DFP/ITR data to a xlsx file
+get_dfp_data            Downloads and reads DFP datasets
+get_info_companies      Returns a up to date table with information
+                        about B3 companies
+search_company          Helps users search for a company
