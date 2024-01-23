@@ -1,0 +1,4 @@
+export_xlsx	export_xlsx
+get_dfp_data	get_dfp_data
+get_info_companies	get_info_companies
+search_company	search_company
